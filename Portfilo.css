@@ -389,9 +389,9 @@
         }
 
         /* Project Images */
-        .project-1 { background-image: url('Assets/imges/images.jpg'); }
-        .project-2 { background-image: url('Assets/imges/images1.jpg'); }
-        .project-3 { background-image: url('Assets/imges/1.png'); }
+        .project-1 { background-image: url('images.jpg'); }
+        .project-2 { background-image: url('images1.jpg'); }
+        .project-3 { background-image: url('1.png'); }
 
         .project-content {
             padding: 1.5rem;
@@ -571,3 +571,4 @@
         }
 
    
+
